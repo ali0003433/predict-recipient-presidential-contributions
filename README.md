@@ -8,3 +8,10 @@ President Donald Trump, Senator Elizabeth Warren, Senator Bernie Sanders, Mayor 
 Contributions are included from 2016 to as recent as September/October 2019. 
 
 
+American FactFinder (factfinder.census.gov)
+Search using...
+People:Income & Earnings:
+Income/Earnings (Households) 
+5-Digit ZCTA
+All 5-Digit ZIP Code Tabulation Areas fully within/partially within District of Columbia 
+clear all selecti
