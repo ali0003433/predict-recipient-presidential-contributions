@@ -1,16 +1,3 @@
-# Predicting candidate recipient of contribution
-
-
-Data Sources: 
-1) Individual political contributions from the Federal Election Commission (FEC) 2020 Presidential Campaign Finance data for District of Columbia. Pulled on 10/18/2019. (https://classic.fec.gov/disclosurep/PState.do) 
-2) Census Bureau American Community Surveys (ACS)
-American FactFinder (factfinder.census.gov)
-People:Income & Earnings:
-Income/Earnings (Households) 
-5-Digit ZCTA
-All 5-Digit ZIP Code Tabulation Areas fully within/partially within District of Columbia 
-
-
 # Predicting Recipient of Presidential Campaign Contributions
 
 #### -- Project Status: [Active, On-Hold, Completed]
@@ -54,4 +41,13 @@ The purpose of this project is two-fold. The first goal was to create a multi-cl
 
 ## Contact
 * Alyssa Liguori, Alyssa.Liguori@protonmail.com 
+
+
+## Data Sources: 
+1) Individual political contributions from the Federal Election Commission (FEC) 2020 Presidential Campaign Finance data for District of Columbia. Pulled on 10/18/2019. (https://classic.fec.gov/disclosurep/PState.do) 
+2) Census Bureau American Community Surveys (ACS), American FactFinder (factfinder.census.gov)
+Search : People:Income & Earnings:
+Income/Earnings (Households) 
+5-Digit ZCTA
+All 5-Digit ZIP Code Tabulation Areas fully within/partially within District of Columbia 
 
