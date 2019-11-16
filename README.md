@@ -1,6 +1,6 @@
-# Predicting Recipient of Presidential Campaign Contributions
+# Predicting the Recipient of 2020 Presidential Campaign Contributions
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: Active
 
 ## Project Intro/Objective
 The purpose of this project is two-fold. The first goal was to create a multi-class classifier for predicting the recipient on an individual's campaign contributions. The second goal was to tune the model to optimize for predicting a specific metric, namely contributions to Bernie Sanders in this particular example. 
@@ -14,16 +14,9 @@ The purpose of this project is two-fold. The first goal was to create a multi-cl
 * Scikit-Learn
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+- The first data source is the Federal Election Commission's (FEC) individual contributions data for the District of Columbia pulled on October 18, 2019.
+- The second data source is the Census Bureau's American Community Survey (ACS) from 2015 for the District of Columbia. 
 
-## Needs of this project
-
-- frontend developers
-- data exploration/descriptive statistics
-- data processing/cleaning
-- statistical modeling
-- writeup/reporting
-- etc. (be as specific as possible)
 
 ## Getting Started
 
@@ -34,20 +27,10 @@ The purpose of this project is two-fold. The first goal was to create a multi-cl
 3. Data processing/transformation scripts are being kept [here]()
 
 ## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
+* [Predicting the Recipient of 2020 Presidential Campaign Contributions](https://docs.google.com/presentation/d/1rupXD29Td_W4v2tG5Tqmqj0PIwOcIB2lv6xSA339FA4/edit)
 * [Blog Post](link)
 
 
 ## Contact
 * Alyssa Liguori, Alyssa.Liguori@protonmail.com 
-
-
-## Data Sources: 
-1) Individual political contributions from the Federal Election Commission (FEC) 2020 Presidential Campaign Finance data for District of Columbia. Pulled on 10/18/2019. (https://classic.fec.gov/disclosurep/PState.do) 
-2) Census Bureau American Community Surveys (ACS), American FactFinder (factfinder.census.gov)
-Search : People:Income & Earnings:
-Income/Earnings (Households) 
-5-Digit ZCTA
-All 5-Digit ZIP Code Tabulation Areas fully within/partially within District of Columbia 
 
