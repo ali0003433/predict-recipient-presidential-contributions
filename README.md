@@ -25,9 +25,9 @@ The purpose of this project is two-fold. The first goal was to create a multi-cl
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 
-2. Raw Data is being kept [here](https://github.com/ali0003433/political-contributions/tree/master/raw_data) within this repo.
+2. Raw Data is kept [here](https://github.com/ali0003433/political-contributions/tree/master/raw_data) within this repo.
     
-3. Data processing/transformation scripts are being kept [here](https://github.com/ali0003433/predicting-recipient-presidential-contributions/blob/master/ntbk-1.ipynb)
+3. Data processing/transformation scripts can be found [here](https://github.com/ali0003433/predicting-recipient-presidential-contributions/blob/master/ntbk-1.ipynb)
 
 4. Logistic Regression code is kept [here](https://github.com/ali0003433/predicting-recipient-presidential-contributions/blob/master/ntbk-2.ipynb)
 
