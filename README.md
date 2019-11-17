@@ -6,20 +6,21 @@
 The purpose of this project is two-fold. The first goal was to create a multi-class classifier for predicting the recipient on an individual's campaign contributions. The second goal was to tune the model to optimize for predicting a specific metric, namely contributions to Bernie Sanders in this particular example. 
 
 ### Technologies/Libraries
-* Python
+
+* Jupyter
+* Matplotlib
 * NumPy
 * pandas
-* sqlite3
-* Matplotlib
+* Python
 * scikit-learn
-* Jupyter Notebooks
+* sqlite3
 
 ## Project Description
 - The first data source is the Federal Election Commission's (FEC) individual contributions data for the District of Columbia pulled on October 18, 2019
 - The second data source is the Census Bureau's American Community Survey (ACS) from 2015 for the District of Columbia 
-- The data was explored to determine features to create a logistic regression classifier to predict the recipient of Presidential Campaign contributions using contributor data
-- The classifier was created to solve for the multi-class problem of classifying four Democratic frontrunners
-- The classifier was then optimized for one particular candidate using a custom metric 
+- Feature engineering of FEC and Census Bureau data
+-  Model selection using logistic regression, KNN, SVM, and Random Forest 
+-  One classifier optimized for a target candidate 
 
 ## Getting Started
 
