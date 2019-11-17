@@ -2,7 +2,7 @@
 
 #### -- Project Status: Active
 
-## Project Intro/Objective
+## Project Intro
 The purpose of this project is two-fold. The first goal was to create a multi-class classifier for predicting the recipient on an individual's campaign contributions. The second goal was to tune the model to optimize for predicting a specific metric, namely contributions to Bernie Sanders in this particular example. 
 
 ### Technologies/Libraries
