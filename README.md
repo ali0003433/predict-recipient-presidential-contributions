@@ -29,7 +29,9 @@ The purpose of this project is two-fold. The first goal was to create a multi-cl
     
 3. Data processing/transformation scripts are being kept [here](https://github.com/ali0003433/predicting-recipient-presidential-contributions/blob/master/ntbk-1.ipynb)
 
-4. Classifier code is kept [here](https://github.com/ali0003433/predicting-recipient-presidential-contributions/blob/master/ntbk-2.ipynb)
+4. Logistic Regression code is kept [here](https://github.com/ali0003433/predicting-recipient-presidential-contributions/blob/master/ntbk-2.ipynb)
+
+5. K-Nearest Neighbors code is kept [here](https://github.com/ali0003433/predicting-recipient-presidential-contributions/blob/master/ntbk-3.ipynb)
 
 ## Featured Deliverables
 * [Predicting the Recipient of 2020 Presidential Campaign Contributions](https://docs.google.com/presentation/d/1rupXD29Td_W4v2tG5Tqmqj0PIwOcIB2lv6xSA339FA4/edit)
